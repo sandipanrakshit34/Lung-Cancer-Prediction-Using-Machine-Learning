@@ -43,6 +43,14 @@ These are the accuracies of the algorithms:
 9. AdaBoost: **84.46%**
 10. XGBoost: **84.46%**
 
+
+## Authors
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
+
 ## Results:
 
 Out of all the algorithms so implemented, **Logistic Regression** performed the best. The evaluation metrics for Logistic Regression is as follows:
