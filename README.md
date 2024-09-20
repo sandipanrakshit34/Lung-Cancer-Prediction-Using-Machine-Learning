@@ -1,6 +1,7 @@
 # Lung-Cancer-Prediction-Using-Machine-Learning
 <center> <img src = "https://github.com/sandipanrakshit34/Lung-Cancer-Prediction-Using-Machine-Learning/blob/main/pngtree-lungs-with-the-ligh.jpg" width = 100%>
-## Aim:
+
+  ## Aim:
 
 The purpose of this project is to comapare Classification algorithms implemented on Lung Cancer Dataset
 
