@@ -45,7 +45,7 @@ These are the accuracies of the algorithms:
 10. XGBoost: **84.46%**
 
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
